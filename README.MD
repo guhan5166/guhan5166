@@ -18,8 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=guhan5166&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-![snake gif](https://github.com/guhan5166/guhan5166/blob/output/github-contribution-grid-snake.svg)
----
-github-readme-stats top-langs
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guhan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/guhan5166)
